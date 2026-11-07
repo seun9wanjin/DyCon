@@ -1,0 +1,4 @@
+pandas>=1.5,<3
+openai>=1.42,<3
+pydantic>=2,<3
+scikit-learn>=1.2,<2

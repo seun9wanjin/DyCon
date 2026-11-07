@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the NeurIPS 2026 DyCon paper."
+type: software
+title: "DyCon: Dynamic Context Modeling for Longitudinal Mental Health Monitoring under Distribution Shift"
+authors:
+  - family-names: Jin
+    given-names: Seungwan
+  - family-names: Noh
+    given-names: Taehyung
+  - family-names: Kim
+    given-names: Junghyun
+  - family-names: Lee
+    given-names: Uichin
+  - family-names: Han
+    given-names: Kyungsik
+repository-code: "https://github.com/seun9wanjin/DyCon"
+url: "https://openreview.net/forum?id=YFPmKTRY1L"

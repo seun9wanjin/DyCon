@@ -2,8 +2,6 @@
 
 Code for **Dynamic Context Modeling for Longitudinal Mental Health Monitoring under Distribution Shift** (NeurIPS 2026).
 
-[Paper and discussion](https://openreview.net/forum?id=YFPmKTRY1L)
-
 DyCon performs longitudinal personalization through natural-language momentary and longitudinal contexts. Initial predictions (R0) precede current-session EMA feedback. Feedback then guides momentary refinement, and an error criterion gates incorporation into the context used in subsequent sessions. Backbone parameters remain fixed.
 
 ## Scope of this release
